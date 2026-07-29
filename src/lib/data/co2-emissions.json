@@ -1,0 +1,21 @@
+[
+	{ "country": "China", "year": 2000, "totalMt": 3643.81, "perCapita": 2.87 },
+	{ "country": "China", "year": 2010, "totalMt": 8610.05, "perCapita": 6.37 },
+	{ "country": "China", "year": 2020, "totalMt": 10896.52, "perCapita": 7.64 },
+
+	{ "country": "United States", "year": 2000, "totalMt": 6023.16, "perCapita": 21.4 },
+	{ "country": "United States", "year": 2010, "totalMt": 5669.25, "perCapita": 18.23 },
+	{ "country": "United States", "year": 2020, "totalMt": 4689.95, "perCapita": 13.82 },
+
+	{ "country": "India", "year": 2000, "totalMt": 987.07, "perCapita": 0.93 },
+	{ "country": "India", "year": 2010, "totalMt": 1678.53, "perCapita": 1.35 },
+	{ "country": "India", "year": 2020, "totalMt": 2422.73, "perCapita": 1.73 },
+
+	{ "country": "Russia", "year": 2000, "totalMt": 1480.58, "perCapita": 10.09 },
+	{ "country": "Russia", "year": 2010, "totalMt": 1633.15, "perCapita": 11.35 },
+	{ "country": "Russia", "year": 2020, "totalMt": 1631.9, "perCapita": 11.15 },
+
+	{ "country": "Japan", "year": 2000, "totalMt": 1260.2, "perCapita": 9.92 },
+	{ "country": "Japan", "year": 2010, "totalMt": 1211.09, "perCapita": 9.45 },
+	{ "country": "Japan", "year": 2020, "totalMt": 1037.28, "perCapita": 8.21 }
+]
